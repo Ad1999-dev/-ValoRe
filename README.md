@@ -1,0 +1,2 @@
+# -ValoRe
+This github repository is associated to the project done for the course Machine Learning Systems Design 2025-2026 INFO9023-1 at Uliege. ValoRe is a ML-powered real estate valuation platform. The goal is to build an end-to-end machine learning system that focus on the system design and its components rather than the complexity of the model itself.
