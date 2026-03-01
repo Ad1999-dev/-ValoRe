@@ -9,11 +9,13 @@ This github repository is associated to the project done for the course Machine 
 - Target: house price
 
 ## 3) Repository structure
+```
 VaLoRe
 ├── src/                        # source code
 ├── tests/                      # pytest tests
 ├── docs/                       # documentation
 └── notebooks/                  # notebooks
+```
 
 ## 4) How we work (GitFlow)
 - `main`: milestone-ready only
