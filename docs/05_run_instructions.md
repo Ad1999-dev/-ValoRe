@@ -12,7 +12,7 @@ Run:
 - `python src/scripts/gcs_setup_and_upload.py`
 
 This creates the bucket (first time) and uploads:
-- `Housing.csv` → `gs://YOUR_BUCKET_NAME/data/raw/Housing.csv`
+- `Housing.csv` → `gs://mlsd-valore-2026-0001/data/raw/Housing.csv`
 
 ## 3) Load dataset into BigQuery ( for online EDA + training)
 Run:
