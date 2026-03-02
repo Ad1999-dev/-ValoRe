@@ -3,7 +3,6 @@ import pandas as pd
 from src.cloud.bigquery_io import create_dataset, load_dataframe_to_table
 from src.cloud.gcs_io import download_file  # only needed for Option B
 
-
 # -------------------------
 # Fill in these settings
 # -------------------------

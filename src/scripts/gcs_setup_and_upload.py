@@ -1,4 +1,4 @@
-from src.cloud.gcs_io import create_bucket, upload_file, list_files
+from src.cloud.gcs_io import create_bucket, list_files, upload_file
 
 # -------------------------
 # Fill in these settings

@@ -1,7 +1,7 @@
 # Data storage decision
 
 ## Requirement from teaching staff
-For Milestone 1, data must be **online** for EDA and training.  
+For Milestone 1, data must be **online** for EDA and training.
 Storing the dataset in Git or relying on local-only reads is not acceptable.
 
 ## Decision
