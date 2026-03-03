@@ -1,4 +1,5 @@
 # Dataset Card
+The dataset represents house/property sales in King County, USA (area around seatlle) between May 2014 and May 2015.
 
 ## Source
 - Dataset Name: Housing Price Dataset
