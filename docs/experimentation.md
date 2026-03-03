@@ -77,19 +77,7 @@ Best CV RMSE: 124,551.78
 
 ---
 
-## 5. Validation Performance (Tuned Model)
-
-| Metric | Value |
-|--------|--------|
-| MAE    | 65,934.56 |
-| RMSE   | 120,080.53 |
-| R²     | 0.8838 |
-
-The tuned model shows comparable performance to the baseline configuration.
-
----
-
-## 6. Final Model Performance (Test Set)
+## 5. Final Model Performance (Test Set)
 
 After retraining the model on train + validation data:
 
@@ -103,7 +91,7 @@ The test performance indicates strong generalization capability.
 
 ---
 
-## 7. Reproducibility
+## 6. Reproducibility
 
 The experiment can be reproduced using:
 
