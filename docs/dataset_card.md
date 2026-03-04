@@ -14,10 +14,10 @@ This dataset contains structured housing-related features intended for predictin
 In ValoRe, we use it to build an end-to-end ML system that demonstrates MLOps practices
 (online data access, reproducible experiments, CI/CD), rather than optimizing model complexity.
 
-## Data description 
+## Data description
 - Data type: tabular / structured
 - Row count: 21,614
-- Number of features: 21 
+- Number of features: 21
 
 | Variable | Type | Description |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ In ValoRe, we use it to build an end-to-end ML system that demonstrates MLOps pr
 | **sqft_living15**| Continuous | Average living area of the 15 closest neighbors. |
 | **sqft_lot15** | Continuous | Average lot size of the 15 closest neighbors. |
 
-## Limitations 
+## Limitations
 - **Region:** Limited to King County, Washington State.
 - **Time:** Data represents a snapshot of the 2014-2015 market.
 - **Provenance:** Random real estate website data mixed.
