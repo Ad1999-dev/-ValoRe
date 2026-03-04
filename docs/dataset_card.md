@@ -50,3 +50,12 @@ In ValoRe, we use it to build an end-to-end ML system that demonstrates MLOps pr
 
 ## License and usage constraints
 - Kaggle license / terms: CC0: Public Domain
+<<<<<<< HEAD
+=======
+
+## Data description (high level)
+- Data type: tabular / structured
+- Row count: 21,613
+- Number of features: 21
+- Target variable: `price`
+>>>>>>> develop
