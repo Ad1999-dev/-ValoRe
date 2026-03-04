@@ -1,7 +1,7 @@
 # EDA
 # Exploratory Data Analysis
 
- For full dataset features description, sources, and limitations see [dataset_card.md](dataset_card.md) , and the full eda jupyter_notebook, see eda.ipyng in the notebooks. 
+ For full dataset features description, sources, and limitations see [dataset_card.md](dataset_card.md) , and the full eda jupyter_notebook, see eda.ipynb in the notebooks. 
 
 ## 1. Data Quality
 
